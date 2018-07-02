@@ -12,7 +12,6 @@
 
 ## Special applications/topics
 - Recommender systems (ex8,TBC)
-- Large scale machine learning (ex8)
 
 ## Advice on building a machine learning system
 - Bias/Variance (ex5)
@@ -20,4 +19,4 @@
 - Evaluation of learning algorithms (ex5) 
 - Learning curves (ex5)
 - Error analysis (ex5)
-- Ceiling analysis
+
