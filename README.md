@@ -1,6 +1,6 @@
-I took the course of machine learning on Coursera, which was taught by professor Andrew Ng.
-The original programming exercises were implemented in MATLAB/Octave, and I rewrote them in Python using iPython notebook.
-Hope what I share could help someone fascinated by data science and machine learning, just like me:)
+*I took the course of machine learning on Coursera, which was taught by professor Andrew Ng.*
+*The original programming exercises were implemented in MATLAB/Octave, and I rewrote them in Python using iPython notebook.*
+*Hope what I share could help someone fascinated by data science and machine learning, just like me:)*
 
 
 
