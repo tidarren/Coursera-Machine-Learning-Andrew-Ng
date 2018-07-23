@@ -19,6 +19,7 @@
 
 ## Special applications/topics
 - Recommender systems (ex8,TBC)
+- Spam Classification (ex6,TBC)
 
 ## Advice on building a machine learning system
 - Bias/Variance (ex5)
