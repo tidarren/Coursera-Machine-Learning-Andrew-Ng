@@ -18,7 +18,7 @@
 - Anomaly detection (ex8)
 
 ## Special applications/topics
-- Recommender systems (ex8,TBC)
+- Recommender systems (ex8)
 - Spam Classification (ex6,TBC)
 
 ## Advice on building a machine learning system
